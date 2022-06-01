@@ -5,3 +5,10 @@ C:\Users\admin\Desktop\REPOSITORIOS GIT HUB\EscrituraArchivos-MtzBlanca\obj\Debu
 C:\Users\admin\Desktop\REPOSITORIOS GIT HUB\EscrituraArchivos-MtzBlanca\obj\Debug\EscrituraArchivos-MtzBlanca.csproj.CoreCompileInputs.cache
 C:\Users\admin\Desktop\REPOSITORIOS GIT HUB\EscrituraArchivos-MtzBlanca\obj\Debug\EscrituraArchivos-MtzBlanca.exe
 C:\Users\admin\Desktop\REPOSITORIOS GIT HUB\EscrituraArchivos-MtzBlanca\obj\Debug\EscrituraArchivos-MtzBlanca.pdb
+C:\Users\admin\Desktop\REPOSITORIOS GIT HUB\EscrituraArchivos\EscrituraArchivos-MtzBlanca\bin\Debug\EscrituraArchivos-MtzBlanca.exe.config
+C:\Users\admin\Desktop\REPOSITORIOS GIT HUB\EscrituraArchivos\EscrituraArchivos-MtzBlanca\bin\Debug\EscrituraArchivos-MtzBlanca.exe
+C:\Users\admin\Desktop\REPOSITORIOS GIT HUB\EscrituraArchivos\EscrituraArchivos-MtzBlanca\bin\Debug\EscrituraArchivos-MtzBlanca.pdb
+C:\Users\admin\Desktop\REPOSITORIOS GIT HUB\EscrituraArchivos\EscrituraArchivos-MtzBlanca\obj\Debug\EscrituraArchivos-MtzBlanca.csproj.AssemblyReference.cache
+C:\Users\admin\Desktop\REPOSITORIOS GIT HUB\EscrituraArchivos\EscrituraArchivos-MtzBlanca\obj\Debug\EscrituraArchivos-MtzBlanca.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\REPOSITORIOS GIT HUB\EscrituraArchivos\EscrituraArchivos-MtzBlanca\obj\Debug\EscrituraArchivos-MtzBlanca.exe
+C:\Users\admin\Desktop\REPOSITORIOS GIT HUB\EscrituraArchivos\EscrituraArchivos-MtzBlanca\obj\Debug\EscrituraArchivos-MtzBlanca.pdb
